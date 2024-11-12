@@ -3,13 +3,12 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-
       <div className="title_container">
         <h1 className="title">Luciano Mariotti</h1>
         <p>Sviluppatore di software</p>
       </div>
       <a
-        href="/files/Luciano_Mariotti_CV.pdf"
+        href="/files/Luciano_Mariotti_CV_IT.pdf"
         target="_blank"
         rel="noopener noreferrer"
       >
