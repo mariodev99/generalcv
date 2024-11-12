@@ -29,7 +29,7 @@ function App() {
               strokeLinejoin="round"
             ></path>
           </svg>
-          <div>CV Luciano Mariotti</div>
+          <div> Luciano Mariotti CV</div>
         </button>
       </a>
       <div className="portfolio_link_container">
